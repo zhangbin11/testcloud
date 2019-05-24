@@ -22,6 +22,7 @@
         <module>service-ribbon</module>
         <module>service-feign</module>
         <module>core</module>
+        <module>service-zuul</module>
     </modules>
 
     <properties>
